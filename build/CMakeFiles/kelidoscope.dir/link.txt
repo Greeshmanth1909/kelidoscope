@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/kelidoscope.dir/link.d CMakeFiles/kelidoscope.dir/src/main.cpp.o CMakeFiles/kelidoscope.dir/src/lexer.cpp.o -o kelidoscope

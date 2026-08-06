@@ -1,0 +1,3 @@
+/home/geechu/Projects/kelidoscope/build/CMakeFiles/kelidoscope.dir
+/home/geechu/Projects/kelidoscope/build/CMakeFiles/edit_cache.dir
+/home/geechu/Projects/kelidoscope/build/CMakeFiles/rebuild_cache.dir

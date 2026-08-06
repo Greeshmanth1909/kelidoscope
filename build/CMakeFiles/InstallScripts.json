@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/geechu/Projects/kelidoscope/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
