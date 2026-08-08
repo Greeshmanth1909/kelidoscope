@@ -53,6 +53,8 @@ int gettok()
             LastChar = getchar();
         } while (isdigit(LastChar) || LastChar == '.');
 
+        std::cout << "got number " << NumStr << std::endl;
+
         NumVal = strtod(NumStr.c_str(), 0);
         return tok_number;
     }
